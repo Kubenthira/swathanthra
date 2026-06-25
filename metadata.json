@@ -1,0 +1,6 @@
+{
+  "name": "Swathanthra Equipments & Services",
+  "description": "E-commerce platform and business profile for Swathanthra Equipments & Services covering landscaping, toys, food products, pooja essentials, and industrial supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
